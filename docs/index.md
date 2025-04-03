@@ -1,1 +1,3 @@
 # Hellow World!
+
+[contact](/contact)
