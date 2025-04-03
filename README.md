@@ -1,3 +1,3 @@
-#alt-container-guide
+# alt-container-guide
 
 Руководство по сборке и запуску контейнеров для дистрибутивов Альт
