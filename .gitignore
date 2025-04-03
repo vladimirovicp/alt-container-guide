@@ -1,0 +1,37 @@
+# Локальные файлы разработки
+node_modules/
+
+# Локальные файлы конфигурации
+.vscode/
+.idea/
+
+# Локальные файлы сборки
+dist/
+.vitepress/cache/
+
+# Локальные файлы логирования
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Файлы окружения
+.env
+.env.local
+.env.*.local
+
+# Файлы, созданные VitePress
+.vitepress/dist
+
+# Файлы, созданные VSCode
+*.vscode
+
+# Файлы, созданные JetBrains
+*.idea
+
+# Файлы, созданные macOS
+.DS_Store
+
+# Файлы, созданные Windows
+Thumbs.db
+ehthumbs.db

@@ -1,0 +1,25 @@
+{
+  "name": "alt-container-guide",
+  "version": "1.0.0",
+  "description": "Руководство по сборке и запуску контейнеров для дистрибутивов Альт",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirovicp/alt-container-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladimirovicp/alt-container-guide/issues"
+  },
+  "homepage": "https://github.com/vladimirovicp/alt-container-guide#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
