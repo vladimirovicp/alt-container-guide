@@ -2,6 +2,9 @@
 
 Руководство по сборке и запуску контейнеров для дистрибутивов Альт
 
+[vitepress](https://vitepress.dev)
+[vitepress ru](https://vitepress.dev/ru/)
+
 ## Установка VitePress
 
 1. Инициализируйте новый проект npm
@@ -33,3 +36,18 @@ npm install vitepress --save-dev
 ```bash
 npm run docs:dev
 ```
+
+7. Build
+
+```bash
+npm run docs:build
+```
+
+по умолчанию сохраняется в docs/.vitepress/dist
+
+8. Запустить наш Build
+
+```bash
+npm run docs:serve
+```
+
