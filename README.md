@@ -2,33 +2,13 @@
 
 Руководство по сборке и запуску контейнеров для дистрибутивов Альт
 
-## Установка VitePress
+## Ссылки на оригинал проекта реализованного с помощью jekyll 
+[Ссылка на проект github (оригинал)](https://github.com/alt-container-guide/alt-container-guide.github.io)
 
-1. Инициализируйте новый проект npm
-```bash
-npm init
-```
+[Вебсайт (оригинал)](https://alt-container-guide.github.io)
 
-2. Установите VitePress
-```bash
-npm install vitepress --save-dev
-```
 
-3. Добавьте скрипт запуска в package.json
-
-```bash
-    "scripts": {
-        "docs:dev": "vitepress dev docs",
-        "docs:build": "vitepress build docs",
-        "docs:serve": "vitepress serve docs"
-    }
-```
-
-4. Создайте папку docs в корне вашего проекта. Это будет основная папка для вашей документации.
-
-5. Внутри папки docs создайте файл index.md. Это будет главная страница вашей документации.
-
-6. Запуск для проверки, что работает
+**Запуск**
 
 ```bash
 npm run docs:dev
