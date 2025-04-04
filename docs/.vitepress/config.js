@@ -1,4 +1,5 @@
 module.exports = {
+    base:'/alt-container-guide/',
     publicDir: 'public',
     lang: 'ru-RU',
     title: 'Alt Linux',
