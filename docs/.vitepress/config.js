@@ -8,7 +8,7 @@ module.exports = {
             { 
                 rel: 'icon',
                 type: 'image/x-icon',
-                href: '/favicon/favicon.ico' 
+                href: '/alt-container-guide/favicon.ico' 
             }
         ]
     ],
