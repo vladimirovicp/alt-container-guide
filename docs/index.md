@@ -1,7 +1,11 @@
 # Hellow World!
 
-[contact](/contact)
+## Heading
+
+### Routes
 
 [contact](/contact)
 
-[contact](/contact)
+[contact](/contact.md)
+
+[contact](/contact.html)
