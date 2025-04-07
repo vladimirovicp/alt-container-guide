@@ -30,5 +30,13 @@ module.exports = {
             prev: 'Предыдущая страница',
             next: 'Следующая страница'
           },
+
+        darkModeSwitchLabel: 'Оформление',
+        lightModeSwitchTitle: 'Переключить на светлую тему',
+        darkModeSwitchTitle: 'Переключить на тёмную тему',
+        sidebarMenuLabel: 'Меню',
+        returnToTopLabel: 'Вернуться к началу',
+        langMenuLabel: 'Изменить язык',
+        skipToContentLabel: 'Перейти к содержимому'
     }
 }
