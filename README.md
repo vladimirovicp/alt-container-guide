@@ -7,6 +7,7 @@
 
 [Вебсайт (оригинал)](https://alt-container-guide.github.io)
 
+> node: v22.14.0
 
 **Запуск**
 
